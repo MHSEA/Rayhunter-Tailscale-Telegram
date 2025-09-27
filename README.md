@@ -60,7 +60,7 @@ Save [this script](https://github.com/MHSEA/TP-Link-M7350-V9_Rayhunter-Tailscale
   - Logging to /media/sdcard/scripts/tailscale-boot.log
   - Waiting for mobile data connection (4G) before launching
   - Starting tailscaled with a fixed state directory
-  - Enabling NAT routing (via usb0)
+  - Enabling NAT routing
   - Sending boot status to Telegram with HTML formatting
 
 🔐 Configuration Notes
