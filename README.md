@@ -68,7 +68,7 @@ Save [this script](https://github.com/MHSEA/TP-Link-M7350-V9_Rayhunter-Tailscale
 - Before using the script, make sure to:
   - Replace BOT_TOKEN with your Telegram Bot Token
   - Replace CHAT_ID with your Telegram user or group ID
-  - Replace --authkey with your Tailscale Auth Key
+  - Replace --authkey with your Tailscale Auth Key (required for authenticating device without an interactive login.)
 
 - Useful guides:
   - 📖 [Create Telegram Bot](https://core.telegram.org/bots#how-do-i-create-a-bot)
