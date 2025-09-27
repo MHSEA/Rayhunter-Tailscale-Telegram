@@ -6,7 +6,9 @@
 
 ### 📌 Device Specs
 
-- **Device:** TP-Link M7350 V9  
+- **Device:** TP-Link M7350 V9
+- **Firmware Version:** 9.0.3 Build 241219 Rel.1089n
+- **Rayhunter Version:** 0.7.0
 - **CPU:** ARMv7l (Qualcomm MDM9607)  
 - **OS:** BusyBox/Linux-based embedded firmware  
 - **Tailscale:** [arm: tailscale_1.88.3_arm.tgz](https://pkgs.tailscale.com/stable/tailscale_1.88.3_arm.tgz)
